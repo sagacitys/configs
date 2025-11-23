@@ -1,0 +1,179 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu...
+
+# HTML (HyperText Markup Language) document
+*.htm linguist-detectable=true
+*.htm linguist-documentation=true
+*.htm linguist-language=true
+*.html linguist-detectable=true
+*.html linguist-documentation=true
+*.html linguist-language=true
+*.mhtm linguist-detectable=true
+*.mhtm linguist-documentation=true
+*.mhtm linguist-language=true
+*.mhtml linguist-detectable=true
+*.mhtml linguist-documentation=true
+*.mhtml linguist-language=true
+*.xhtm linguist-detectable=true
+*.xhtm linguist-documentation=true
+*.xhtm linguist-language=true
+*.xhtml linguist-detectable=true
+*.xhtml linguist-documentation=true
+*.xhtml linguist-language=true
+
+# HTA (HTML Application) file
+*.hta linguist-detectable=true
+*.hta linguist-documentation=true
+*.hta linguist-language=true
+
+# CSS (Cascade Styling Sheets)
+*.css linguist-detectable=true
+*.css linguist-documentation=true
+*.css linguist-language=true
+
+# Less stylesheet
+*.less linguist-detectable=true
+*.less linguist-documentation=true
+*.less linguist-language=true
+
+# JSON
+*.json linguist-detectable=true
+*.json linguist-documentation=true
+*.json linguist-language=true
+
+# WebVTT
+*.vtt linguist-detectable=true
+*.vtt linguist-documentation=true
+*.vtt linguist-language=true
+
+# SubRip
+*.srt linguist-detectable=true
+*.srt linguist-documentation=true
+*.srt linguist-language=true
+
+# YAML
+*.yml linguist-detectable=true
+*.yml linguist-documentation=true
+*.yml linguist-language=true
+*.yaml linguist-detectable=true
+*.yaml linguist-documentation=true
+*.yaml linguist-language=true
+
+# Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=true
+*.md linguist-language=true
+*.mkd linguist-detectable=true
+*.mkd linguist-documentation=true
+*.mkd linguist-language=true
+*.mdown linguist-detectable=true
+*.mdown linguist-documentation=true
+*.mdown linguist-language=true
+*.markdown linguist-detectable=true
+*.markdown linguist-documentation=true
+*.markdown linguist-language=true
+
+# Makefile
+*.mk linguist-detectable=true
+*.mk linguist-documentation=true
+*.mk linguist-language=true
+*.mak linguist-detectable=true
+*.mak linguist-documentation=true
+*.mak linguist-language=true
+*.make linguist-detectable=true
+*.make linguist-documentation=true
+*.make linguist-language=true
+*.makefile linguist-detectable=true
+*.makefile linguist-documentation=true
+*.makefile linguist-language=true
+
+# SVG
+*.svg linguist-detectable=true
+*.svg linguist-documentation=true
+*.svg linguist-language=true
+
+# Git config
+*.gitattributes linguist-detectable=true
+*.gitattributes linguist-documentation=true
+*.gitignore linguist-detectable=true
+*.gitignore linguist-documentation=true
+*.editorconfig linguist-detectable=true
+*.editorconfig linguist-documentation=true
+
+# Plain Text
+*.txt linguist-detectable=true
+*.txt linguist-documentation=true
+*.txt linguist-language=true
+
+# ReStructuredText
+*.rst linguist-detectable=true
+*.rst linguist-documentation=true
+*.rst linguist-language=true
+
+# WikiText
+*.wiki linguist-detectable=true
+*.wiki linguist-documentation=true
+*.wiki linguist-language=true
+
+# BibTeX
+*.bib linguist-detectable=true
+*.bib linguist-documentation=true
+*.bib linguist-language=true
+
+# TeX
+*.tex linguist-detectable=true
+*.tex linguist-documentation=true
+*.tex linguist-language=true
+
+# Desktop entry
+*.desktop linguist-detectable=true
+*.desktop linguist-documentation=true
+*.desktop linguist-language=true
+
+# INI/CFG
+*.ini linguist-detectable=true
+*.ini linguist-documentation=true
+*.ini linguist-language=true
+*.cfg linguist-detectable=true
+*.cfg linguist-documentation=true
+*.cfg linguist-language=true
+
+# CFF
+*.cff linguist-detectable=true
+*.cff linguist-documentation=true
+*.cff linguist-language=true
+
+# PNG/PNS
+*.png linguist-detectable=true
+*.png linguist-documentation=true
+*.png linguist-language=true
+*.pns linguist-detectable=true
+*.pns linguist-documentation=true
+*.pns linguist-language=true
+
+# JPG/JPEG/JFIF/JIF
+*.jpg linguist-detectable=true
+*.jpg linguist-documentation=true
+*.jpg linguist-language=true
+*.jpeg linguist-detectable=true
+*.jpeg linguist-documentation=true
+*.jpeg linguist-language=true
+*.jfif linguist-detectable=true
+*.jfif linguist-documentation=true
+*.jfif linguist-language=true
+*.jif linguist-detectable=true
+*.jif linguist-documentation=true
+*.jif linguist-language=true
+
+# JP2
+*.jp2 linguist-detectable=true
+*.jp2 linguist-documentation=true
+*.jp2 linguist-language=true
+
+# GIF
+*.gif linguist-detectable=true
+*.gif linguist-documentation=true
+*.gif linguist-language=true
+
+# End of script
